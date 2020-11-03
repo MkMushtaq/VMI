@@ -1,0 +1,3 @@
+VMI - Vehicle Maintenance Index, is an application that assists propspective car buyers with the quality of a car and its parts. It uses a machine learning model to 
+predict average maintenance value on a scale of 0-10. Apart from prospective customers, it is also helpful to car parts manufacturers and the government. A low index
+value would make indicate the goverment to not to approve that specific car or car part.
